@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Benford-s-Law-for-Fraud-Detection",
+			"path": "../../Benford-s-Law-for-Fraud-Detection"
+		},
+		{
+			"name": "SQL-for-Data-Science",
+			"path": "../../SQL-for-Data-Science"
+		},
+		{
+			"name": "LearnGitwithCoursera",
+			"path": "../../LearnGitwithCoursera"
+		}
+	],
+	"settings": {}
+}
